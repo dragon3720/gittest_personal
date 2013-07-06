@@ -2,3 +2,4 @@ This is sample file.
 added line.
 addLine on ClonedReps.
 on Org commit
+on Clone commit
